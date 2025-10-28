@@ -1,2 +1,3 @@
 - Here is first text README.md
 - Adding second text to README.md as collaborator
+- Adding third text to README.md as collaborator
